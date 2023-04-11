@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 #
 - JDK 1.8 or later
@@ -23,3 +24,6 @@ Then look for the file :
 - > mysql -u <user_name> -p accounts < accountsdb.sql
 
 
+=======
+# vpro-docker
+>>>>>>> e43b5848011f136c150d6cb968425a38a64f8f7b
